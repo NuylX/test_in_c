@@ -26,7 +26,7 @@ Repositório focado em testes e experimentos com programas desenvolvidos em **Li
    cd test_in_c
 
 2. Compile o código desejado:
-   gcc basico/calculadora.c -o exemplo
+   gcc basico/calculadora.c -o calculadora
 
 3. Execute o programa:
    ./calculadora

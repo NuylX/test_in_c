@@ -16,7 +16,7 @@ Cada projeto abaixo é um pequeno arquivo C dentro da pasta `basico/` (ex.: `bas
   - dados_pessoais.c
   - soma.c
   - potencias.c
-  - media.c
+  - calcular_media.c
   - fliperama.c
 
  ## Como compilar e executar

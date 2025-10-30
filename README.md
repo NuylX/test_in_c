@@ -1,7 +1,7 @@
- 🧪 test_in_c
+# 🧪 test_in_c
 
 Repositório focado em testes e experimentos com programas desenvolvidos em **Linguagem C**.  
-📌 Ideal para praticar lógica, explorar estruturas, otimizar códigos e crescer como programador C!  
+Cada projeto abaixo é um pequeno arquivo C dentro da pasta `basico/` (ex.: `basico/variaveis.c`).
 
 
  📋 Etapas de Desenvolvimento
@@ -11,22 +11,22 @@ Repositório focado em testes e experimentos com programas desenvolvidos em **Li
 3️⃣ Analise os resultados e comportamentos  
 4️⃣ Aprimore com boas práticas e melhorias  
 
-
  📁 Estrutura do Repositório
-- Calculadora
-- Média Aritmética
-- Média Ponderada
+- basico/
+  - dados_pessoais.c
+  - soma.c
+  - potencias.c
+  - media.c
+  - fliperama.c
 
-
- 🚀 Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/test_in_c.git
-   cd test_in_c
-
-2. Compile o código desejado:
-   gcc basico/calculadora.c -o calculadora
-
-3. Execute o programa:
-   ./calculadora
+ ## Como compilar e executar
+No terminal (Windows PowerShell):
+```powershell
+gcc basico/dados_pessoais.c -o basico/dados_pessoais.exe
+.\basico\dados_pessoais.exe
+```
+ou no Linux/macOS:
+```bash
+gcc basico/dados_pessoais.c -o basico/dados_pessoais
+./basico/dados_pessoais
+```

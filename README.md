@@ -1,4 +1,4 @@
-#🧪 test_in_c
+🧪 test_in_c
 
 Repositório dedicado a testes e experimentos com implementações em múltiplas linguagens de programação.
 O objetivo é explorar diferentes sintaxes, paradigmas e abordagens de resolução de problemas, comparando desempenho, legibilidade e boas práticas entre linguagens.

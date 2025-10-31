@@ -1,7 +1,10 @@
 # 🧪 test_in_c
 
-Repositório focado em testes e experimentos com programas desenvolvidos em **Linguagem C**.  
-Cada projeto abaixo é um pequeno arquivo C dentro da pasta `basico/` (ex.: `basico/variaveis.c`).
+Repositório dedicado a testes e experimentos com implementações em múltiplas linguagens de programação.
+O objetivo é explorar diferentes sintaxes, paradigmas e abordagens de resolução de problemas, comparando desempenho, legibilidade e boas práticas entre linguagens.
+
+Os projetos são organizados por diretórios conforme a linguagem utilizada — por exemplo, arquivos em C estão localizados em basico/ (ex.: basico/variaveis.c).
+Novas pastas e exemplos serão adicionados gradualmente, abrangendo linguagens como Python, C++, JavaScript, Go, Rust, entre outras.
 
 
  📋 Etapas de Desenvolvimento

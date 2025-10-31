@@ -1,55 +1,86 @@
-# 🧪 test_in_c
+🧪 test_in_c
 
 Repositório dedicado a testes e experimentos com implementações em múltiplas linguagens de programação.
 O objetivo é explorar diferentes sintaxes, paradigmas e abordagens de resolução de problemas, comparando desempenho, legibilidade e boas práticas entre linguagens.
 
-Os projetos são organizados por diretórios conforme a linguagem utilizada — por exemplo, arquivos em C estão localizados em basico/ (ex.: basico/variaveis.c).
+Os projetos são organizados por diretórios conforme a linguagem utilizada — por exemplo, arquivos em C estão localizados em basico/.
 Novas pastas e exemplos serão adicionados gradualmente, abrangendo linguagens como Python, C++, JavaScript, Go, Rust, entre outras.
 
+⚙️ Tecnologias Utilizadas
 
- 📋 Etapas de Desenvolvimento
+Linguagens: C, Python, C++, JavaScript, Go, Rust
 
-1️⃣ Crie funções e algoritmos em C  
-2️⃣ Teste com diferentes entradas e casos  
-3️⃣ Analise os resultados e comportamentos  
-4️⃣ Aprimore com boas práticas e melhorias  
+Compilador C: GCC
 
- 📁 Estrutura do Repositório
-- basico/
-  - dados_pessoais.c
-  - soma.c
-  - potencias.c
-  - calcular_media.c
-  - fliperama.c
+Ferramentas: Git, PowerShell/Terminal
 
-⚙️ Como compilar e executar
+📋 Pré-requisitos
 
-Escolha o comando de acordo com seu sistema operacional 👇
+Antes de rodar os exemplos em C, você precisa ter instalado em sua máquina:
 
-#🪟 Windows (PowerShell)
+GCC
+ (versão mínima recomendada: 9.0)
 
-``# Compilar
-gcc basico/dados_pessoais.c -o basico/dados_pessoais.exe``
+Git
+ (para clonar o repositório)
 
-``# Executar
-.\basico\dados_pessoais.exe``
+Terminal ou PowerShell (dependendo do seu sistema operacional)
 
-#🐧 Linux
-``# Compilar
-gcc basico/dados_pessoais.c -o basico/dados_pessoais``
+Clone o repositório:
 
-``# Executar
-./basico/dados_pessoais``
+git clone https://github.com/seu-usuario/test_in_c.git
+cd test_in_c
 
-#🍎 macOS
-`` Compilar``
-``gcc basico/dados_pessoais.c -o basico/dados_pessoais``
+📁 Estrutura do Repositório
 
-``# Executar``
-``./basico/dados_pessoais``
+basico/ – exemplos em C
+
+- [dados_pessoais.c](basico/dados_pessoais.c)
+- [soma.c](basico/soma.c)
+- [potencias.c](basico/potencias.c)
+- [calcular_media.c](basico/calcular_media.c)
+- [fliperama.c](basico/fliperama.c)
+
+Novos diretórios serão adicionados conforme novas linguagens e exemplos forem incluídos.
+
+📋 Etapas de Desenvolvimento
+
+Crie funções e algoritmos em C.
+
+Teste com diferentes entradas e casos.
+
+Analise os resultados e comportamentos.
+
+Aprimore com boas práticas e melhorias.
+
+🚀 Como Compilar e Executar
+
+Escolha o comando de acordo com seu sistema operacional:
+
+🪟 Windows (PowerShell)
+# Compilar
+gcc basico/dados_pessoais.c -o basico/dados_pessoais.exe
+
+# Executar
+.\basico\dados_pessoais.exe
+
+🐧 Linux
+# Compilar
+gcc basico/dados_pessoais.c -o basico/dados_pessoais
+
+# Executar
+./basico/dados_pessoais
+
+🍎 macOS
+# Compilar
+gcc basico/dados_pessoais.c -o basico/dados_pessoais
+
+# Executar
+./basico/dados_pessoais
 
 
-💡 Dica: Substitua dados_pessoais.c pelo nome do arquivo que deseja executar. Por exemplo:
+💡 Dica: Substitua dados_pessoais.c pelo nome do arquivo que deseja executar.
+Exemplo:
 
-``gcc basico/soma.c -o basico/soma
-./basico/soma``
+gcc basico/soma.c -o basico/soma
+./basico/soma

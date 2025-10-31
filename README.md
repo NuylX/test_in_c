@@ -2,7 +2,9 @@
 
 Test_in_C é um repositório de experimentação em múltiplas linguagens, com foco inicial em C.
 
-![Linguagens](https://img.shields.io/badge/Linguagens-C%20|%20Python%20|%20C++%20)
+![Linguagens](https://img.shields.io/badge/Linguagens-C%20|%20Python%20|%20C++%20-blue)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
 ## 📌 Descrição

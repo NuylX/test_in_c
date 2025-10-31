@@ -12,7 +12,7 @@ Objetivos:
 - Comparar desempenho, legibilidade e boas práticas
 - Facilitar aprendizado de programação
 
-##📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório
 
 `basico/` – exemplos em C:
 - [calcular_media.c](basico/calcular_media.c)
@@ -23,18 +23,18 @@ Objetivos:
 - [soma.c](basico/soma.c)
 - [potencias.c](basico/potencias.c)
 
-##⚙️Como Compilar/Executar
+## ⚙️Como Compilar/Executar
 
 ### Windows (PowerShell)
 powershell```
 gcc basico/dados_pessoais.c -o basico/dados_pessoais.exe
 .\basico\dados_pessoais.exe```
 
-###Linux / macOS
-
+### Linux / macOS
 ```
 gcc basico/dados_pessoais.c -o basico/dados_pessoais
-./basico/dados_pessoais```
+./basico/dados_pessoais
+```
 
 ## 🌟 Futuro do Projeto
 

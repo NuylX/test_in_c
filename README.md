@@ -26,29 +26,30 @@ Novas pastas e exemplos serão adicionados gradualmente, abrangendo linguagens c
 
 Escolha o comando de acordo com seu sistema operacional 👇
 
-🪟 Windows (PowerShell)
-# Compilar
-gcc basico/dados_pessoais.c -o basico/dados_pessoais.exe
+#🪟 Windows (PowerShell)
 
-# Executar
-.\basico\dados_pessoais.exe
+``# Compilar
+gcc basico/dados_pessoais.c -o basico/dados_pessoais.exe``
 
-🐧 Linux
-# Compilar
-gcc basico/dados_pessoais.c -o basico/dados_pessoais
+``# Executar
+.\basico\dados_pessoais.exe``
 
-# Executar
-./basico/dados_pessoais
+#🐧 Linux
+``# Compilar
+gcc basico/dados_pessoais.c -o basico/dados_pessoais``
 
-🍎 macOS
-# Compilar
-gcc basico/dados_pessoais.c -o basico/dados_pessoais
+``# Executar
+./basico/dados_pessoais``
 
-# Executar
-./basico/dados_pessoais
+#🍎 macOS
+`` Compilar``
+``gcc basico/dados_pessoais.c -o basico/dados_pessoais``
+
+``# Executar``
+``./basico/dados_pessoais``
 
 
 💡 Dica: Substitua dados_pessoais.c pelo nome do arquivo que deseja executar. Por exemplo:
 
-gcc basico/soma.c -o basico/soma
-./basico/soma
+``gcc basico/soma.c -o basico/soma
+./basico/soma``

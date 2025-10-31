@@ -22,14 +22,33 @@ Novas pastas e exemplos serão adicionados gradualmente, abrangendo linguagens c
   - calcular_media.c
   - fliperama.c
 
- ## Como compilar e executar
-No terminal (Windows PowerShell):
-```powershell
+⚙️ Como compilar e executar
+
+Escolha o comando de acordo com seu sistema operacional 👇
+
+🪟 Windows (PowerShell)
+# Compilar
 gcc basico/dados_pessoais.c -o basico/dados_pessoais.exe
+
+# Executar
 .\basico\dados_pessoais.exe
-```
-ou no Linux/macOS:
-```bash
+
+🐧 Linux
+# Compilar
 gcc basico/dados_pessoais.c -o basico/dados_pessoais
+
+# Executar
 ./basico/dados_pessoais
-```
+
+🍎 macOS
+# Compilar
+gcc basico/dados_pessoais.c -o basico/dados_pessoais
+
+# Executar
+./basico/dados_pessoais
+
+
+💡 Dica: Substitua dados_pessoais.c pelo nome do arquivo que deseja executar. Por exemplo:
+
+gcc basico/soma.c -o basico/soma
+./basico/soma

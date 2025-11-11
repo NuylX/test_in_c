@@ -28,7 +28,7 @@ Cada linguagem possui sua própria pasta e um `README.md` dedicado com seus expe
 |------------|------------|--------------|------------|
 | 🧱 **C** | [`/C/`](C/) | 🔹 *Prioritário / em estudo ativo* | Foco em lógica base, condicionais, estruturas e funções |
 | 🧩 **C++** | [`/C++/`](C++/) | ⚪ *Futuro aprendizado* | Introdução à orientação a objetos e manipulação de memória |
-|💻 **C#** | [`/C#/`](C#/) | ⚪ *Futuro aprendizado* | Foco em aplicações desktop e sintaxe moderna |
+|💻 **C#** | [`/C#/`](CSharp/) | ⚪ *Futuro aprendizado* | Foco em aplicações desktop e sintaxe moderna |
 | ☕ **Java** | [`/Java/`](Java/) | 🟡 *Planejado* | Estruturas de classe, herança e APIs básicas |
 | 🐍 **Python** | [`/Python/`](Python/) | ⚪ *Futuro aprendizado* | Scripts rápidos, lógica e automação |
 

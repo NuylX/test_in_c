@@ -28,6 +28,4 @@
 
 ---
 
-## 🔗 Retornar
-
-➡️ [Voltar ao README principal](../README.md)
+[⬅️ Voltar ao principal](../README.md)

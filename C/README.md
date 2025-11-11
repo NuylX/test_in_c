@@ -1,13 +1,9 @@
-
----
-
-## 🧱 README da Linguagem C (`/C/README.md`)
-
-```markdown
 # 🧱 Estudo da Linguagem C
 
 ![Status](https://img.shields.io/badge/Nível-Em%20Estudo-blue)
 ![Foco](https://img.shields.io/badge/Foco-Estruturas%20básicas%20|%20Condicionais%20|%20Switch%20Cases-green)
+
+---
 
 ## 📖 Em estudo atualmente
 
@@ -18,7 +14,7 @@
 
 ---
 
-## 📂 Estrutura
+## 📂 Estrutura do Diretório
 
 `basico/` – exemplos práticos em C:
 - [calcular_media.c](basico/calcular_media.c)
@@ -30,14 +26,9 @@
 
 ---
 
-## ⚙️ Como Compilar/Executar
+## ⚙️ Como Compilar e Executar
 
-### Windows (PowerShell)
+### 🪟 Windows (PowerShell)
 ```powershell
 gcc basico/dados_pessoais.c -o basico/dados_pessoais.exe
 .\basico\dados_pessoais.exe
-
-Linux / macOS
-gcc basico/dados_pessoais.c -o basico/dados_pessoais
-./basico/dados_pessoais
-

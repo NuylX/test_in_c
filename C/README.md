@@ -39,3 +39,7 @@ gcc basico/dados_pessoais.c -o basico/dados_pessoais.exe
 gcc basico/dados_pessoais.c -o basico/dados_pessoais
 ./basico/dados_pessoais
 ```
+
+---
+
+[⬅️ Voltar ao principal](../README.md)

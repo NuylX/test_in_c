@@ -43,7 +43,10 @@ Exemplo para **C**:
 ```powershell
 gcc basico/dados_pessoais.c -o basico/dados_pessoais.exe
 .\basico\dados_pessoais.exe
+```
 
-🐧 Linux / macOS
+### 🔧 Compilar e Executar no Linux / macOS
+```
 gcc basico/dados_pessoais.c -o basico/dados_pessoais
 ./basico/dados_pessoais
+```
